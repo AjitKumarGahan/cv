@@ -1,0 +1,257 @@
+/*body {
+  background: rgb(16, 138, 117);
+}
+.name {
+  color: red;
+}
+
+#nameid {
+  color: brown;
+}
+
+#nameid {
+  color: yellow;
+}
+
+.name {
+  color: orange;
+}
+image {
+  background-color: aqua;
+  width: 10%;
+  height: 5px;
+}
+body:hover {
+  color: gold;
+}*/
+
+/* myhtml*/
+
+/*.div {
+  padding: 5px;
+  background-color: #f2f2f2;
+  border-radius: 20px;
+}
+.text {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.email {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.submit {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.submit:hover {
+  opacity: 0.5;
+}
+.search {
+  padding: 12px 20px 12px 40px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px;
+  background-image: url("searchicon.png");
+  background-repeat: no-repeat;
+}
+.search:focus {
+  width: 100%;
+}*/
+/* myhtml1*/
+/*.header {
+  text-align: center;
+  padding: 20px;
+  background-color: bisque;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #4caf50;
+}
+.topnav a {
+  text-align: center;
+  padding: 14px 16px;
+  display: block;
+  float: left;
+  text-decoration: none;
+  text-align: center;
+}
+.column {
+  float: left;
+  padding: 10px;
+}
+.footer {
+  text-align: center;
+  padding: 10px;
+  background-color: aquamarine;
+}
+.column side {
+  width: 25%;
+}
+.column middle {
+  width: 50%;
+}
+@media screen and (max-width: 600px) {
+  .column.side,
+  .column.middle {
+    width: 100%;
+  }
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+*/
+/*myhtml*/
+
+.mountainimage {
+  color: red;
+}
+.upperdiv {
+  background-color: white;
+  padding: 12px 20px;
+  margin: 8px;
+}
+.textdiv {
+  color: #66bfbf;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 30px;
+}
+.cloudimage {
+  position: relative;
+  left: 70%;
+}
+.cloudimage1 {
+  position: relative;
+  left: 10%;
+}
+.mountainimage {
+  position: relative;
+  left: 35%;
+}
+.profile {
+  width: 220px;
+  height: 220px;
+  position: relative;
+  left: 40%;
+  border-radius: 200px;
+}
+.lowerdiv {
+  background-color: azure;
+}
+.dotted {
+  border: 4px;
+  box-sizing: border-box;
+}
+.paragraph {
+  text-align: center;
+  margin: auto;
+  padding: 12px 20px;
+  width: 50%;
+}
+.buttn {
+  background-color: #11999e;
+  color: white;
+  width: 150px;
+  height: 35px;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  left: 45%;
+  margin: 20px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+.teaimage {
+  width: 220px;
+  height: 220px;
+
+  float: right;
+  border-radius: 150px;
+}
+.designimage {
+  width: 220px;
+  height: 220px;
+
+  float: left;
+}
+.textdivdesign {
+  color: #66bfbf;
+  font-size: 20px;
+  padding: 12px 20px;
+  margin: 20px;
+}
+.divparagraph {
+  padding: 12px 20px;
+  margin: 20px;
+}
+.midlediv {
+  padding: 12px 20px;
+  margin: auto;
+  width: 50%;
+}
+.lastdiv {
+  background-color: #66bfbf;
+  text-align: center;
+  width: 100%;
+  height: 100px;
+  padding: 20px 20px;
+  margin: 20px;
+  font-size: 20px;
+}
+a {
+  padding: 12px 20px;
+  margin: 10px;
+  text-decoration-style: none;
+  color: #11999e;
+  text-decoration: none;
+}
+a:hover {
+  color: azure;
+}
+.personal {
+  color: aliceblue;
+  font-size: 14px;
+  position: relative;
+  top: 35%;
+}
+hr {
+  border: dotted #66bfbf 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}

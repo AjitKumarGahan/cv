@@ -1,5 +1,4 @@
 
-
 .mountainimage {
   color: red;
 }
@@ -17,7 +16,7 @@
 }
 .cloudimage {
   position: relative;
-  left: 70%;
+  left: 65%;
 }
 .cloudimage1 {
   position: relative;
@@ -25,13 +24,13 @@
 }
 .mountainimage {
   position: relative;
-  left: 35%;
+  left: 20%;
 }
 .profile {
   width: 220px;
   height: 220px;
   position: relative;
-  left: 40%;
+  left: 38%;
   border-radius: 200px;
 }
 .lowerdiv {
@@ -55,7 +54,7 @@
   font-size: 20px;
   text-align: center;
   position: relative;
-  left: 45%;
+  left: 42%;
   margin: 20px;
   box-sizing: border-box;
   border: 1px solid #ccc;
@@ -91,7 +90,7 @@
 .lastdiv {
   background-color: #66bfbf;
   text-align: center;
-  width: 100%;
+  width: 95%;
   height: 100px;
   padding: 20px 20px;
   margin: 20px;
@@ -124,3 +123,4 @@ hr {
     width: 100%;
   }
 }
+
